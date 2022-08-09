@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/intersection-of-two-arrays-ii/submissions/
+# https://leetcode.com/problems/intersection-of-two-arrays-ii/
 
 from collections import defaultdict
 
