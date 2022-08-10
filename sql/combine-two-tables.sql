@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/combine-two-tables/
+-- https://leetcode.com/problems/combine-two-tables/
 
 SELECT firstName
      , lastName
