@@ -11,7 +11,7 @@
 |dynamic-programming|14|
 |graph|16|
 |greedy|2|
-|hash-table|2|
+|hash-table|3|
 |linked-list|7|
 |math|5|
 |prefix-sum|2|
@@ -19,7 +19,7 @@
 |string|12|
 |tree|4|
 |two-pointer|4|
-| **sum** | **106**|
+| **sum** | **107**|
 
 <br>
 
