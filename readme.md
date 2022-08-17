@@ -8,7 +8,7 @@
 |bit-manipulation|1|
 |data-structure|5|
 |divide-and-conquer|2|
-|dynamic-programming|19|
+|dynamic-programming|21|
 |graph|28|
 |greedy|2|
 |hash-table|3|
@@ -19,13 +19,13 @@
 |string|19|
 |tree|11|
 |two-pointer|4|
-| **sum** | **153**|
+| **sum** | **155**|
 
 <br>
 
  ## SQL
 |    SQL    | solved |
 | :-------------: | :----: |
-|    MySQL    |33|
-| **sum** | **33**|
+|    MySQL    |39|
+| **sum** | **39**|
 
