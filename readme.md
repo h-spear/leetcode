@@ -8,18 +8,19 @@
 |bit-manipulation|1|
 |data-structure|5|
 |divide-and-conquer|2|
-|dynamic-programming|21|
-|graph|28|
-|greedy|2|
+|dynamic-programming|23|
+|graph|31|
+|greedy|3|
 |hash-table|3|
+|implementation|1|
 |linked-list|9|
 |math|5|
-|prefix-sum|2|
+|prefix-sum|3|
 |sorting|2|
 |string|19|
-|tree|11|
-|two-pointer|4|
-| **sum** | **155**|
+|tree|13|
+|two-pointer|6|
+| **sum** | **167**|
 
 <br>
 

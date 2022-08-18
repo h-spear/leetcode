@@ -2,7 +2,7 @@
 # hard *****
 
 import heapq
-from collections import defaultdict
+from collections import defaultdict, deque
 
 
 class Solution:
