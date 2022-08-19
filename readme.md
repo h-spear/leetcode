@@ -2,7 +2,7 @@
 ## PYTHON
 |    Algorithm    | solved |
 | :-------------: | :----: |
-|array|18|
+|array|19|
 |back-tracking|4|
 |binary-search|19|
 |bit-manipulation|2|
@@ -17,10 +17,10 @@
 |math|5|
 |prefix-sum|3|
 |sorting|2|
-|string|19|
+|string|20|
 |tree|15|
 |two-pointer|6|
-| **sum** | **175**|
+| **sum** | **177**|
 
 <br>
 
