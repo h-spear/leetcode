@@ -4,7 +4,7 @@
 | :-------------: | :----: |
 |array|19|
 |back-tracking|4|
-|binary-search|19|
+|binary-search|20|
 |bit-manipulation|2|
 |data-structure|5|
 |divide-and-conquer|2|
@@ -20,7 +20,7 @@
 |string|20|
 |tree|15|
 |two-pointer|6|
-| **sum** | **177**|
+| **sum** | **178**|
 
 <br>
 
