@@ -2,25 +2,25 @@
 ## PYTHON
 |    Algorithm    | solved |
 | :-------------: | :----: |
-|array|19|
+|array|20|
 |back-tracking|4|
 |binary-search|20|
 |bit-manipulation|4|
-|data-structure|5|
 |divide-and-conquer|2|
-|dynamic-programming|24|
-|graph|32|
+|dynamic-programming|25|
+|graph|35|
 |greedy|3|
 |hash-table|6|
 |implementation|1|
 |linked-list|9|
 |math|5|
-|prefix-sum|3|
+|prefix-sum|4|
 |sorting|2|
-|string|20|
-|tree|15|
+|stack|6|
+|string|21|
+|tree|16|
 |two-pointer|6|
-| **sum** | **180**|
+| **sum** | **189**|
 
 <br>
 
