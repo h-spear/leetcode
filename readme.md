@@ -5,7 +5,7 @@
 |array|19|
 |back-tracking|4|
 |binary-search|20|
-|bit-manipulation|2|
+|bit-manipulation|4|
 |data-structure|5|
 |divide-and-conquer|2|
 |dynamic-programming|24|
@@ -20,7 +20,7 @@
 |string|20|
 |tree|15|
 |two-pointer|6|
-| **sum** | **178**|
+| **sum** | **180**|
 
 <br>
 
