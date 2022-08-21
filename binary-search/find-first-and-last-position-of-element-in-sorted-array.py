@@ -36,3 +36,20 @@ class Solution:
         if nums[upper_bound] != target or nums[lower_bound] != target:
             return [-1, -1]
         return [lower_bound, upper_bound]
+
+
+# library
+from bisect import bisect_left, bisect_right
+
+
+class Solution:
+    def searchRange(self, nums: List[int], target: int) -> List[int]:
+        if not nums:
+            return [-1, -1]
+
+        upper_bound = bisect_right(nums, target) - 1
+        lower_bound = bisect_left(nums, target)
+
+        if nums[upper_bound] != target or nums[lower_bound] != target:
+            return [-1, -1]
+        return [lower_bound, upper_bound]
