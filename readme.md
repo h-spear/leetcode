@@ -15,12 +15,13 @@
 |linked-list|9|
 |math|5|
 |prefix-sum|4|
-|sorting|2|
+|priority-queue|1|
+|sorting|3|
 |stack|6|
 |string|21|
 |tree|16|
 |two-pointer|7|
-| **sum** | **193**|
+| **sum** | **195**|
 
 <br>
 
