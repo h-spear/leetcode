@@ -1,6 +1,9 @@
 # https://leetcode.com/problems/3sum/
 
 # 9373ms
+from bisect import bisect_left
+
+
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
         n = len(nums)
@@ -22,30 +25,6 @@ class Solution:
                     answer.add((nums[i], nums[j], nums[lb]))
 
         return list(answer)
-
-
-# 4865ms
-class Solution:
-    def threeSum(self, nums: list[int]) -> list[list[int]]:
-        nums.sort()
-        answer = []
-        for i in range(len(nums)):
-            if i > 0 and nums[i] == nums[i - 1]:
-                continue
-            now = nums[i]
-            target = -now
-
-            left, right = i + 1, len(nums) - 1
-            while left < right:
-                if nums[left] + nums[right] == target:
-                    if [now, nums[left], nums[right]] not in answer:
-                        answer.append([now, nums[left], nums[right]])
-                    left += 1
-                elif nums[left] + nums[right] < target:
-                    left += 1
-                else:
-                    right -= 1
-        return answer
 
 
 # 1197ms
