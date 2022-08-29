@@ -7,21 +7,21 @@
 |binary-search|31|
 |bit-manipulation|6|
 |divide-and-conquer|2|
-|dynamic-programming|32|
+|dynamic-programming|35|
 |graph|35|
-|greedy|6|
+|greedy|8|
 |hash-table|8|
-|linked-list|11|
-|math|7|
+|linked-list|13|
+|math|8|
 |prefix-sum|4|
 |priority-queue|3|
 |simulation|2|
 |sorting|5|
 |stack|8|
 |string|23|
-|tree|17|
+|tree|19|
 |two-pointer|10|
-| **sum** | **239**|
+| **sum** | **249**|
 
 <br>
 
