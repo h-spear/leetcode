@@ -3,12 +3,12 @@
 |    Algorithm    | solved |
 | :-------------: | :----: |
 |array|25|
-|back-tracking|4|
+|back-tracking|6|
 |binary-search|31|
 |bit-manipulation|6|
 |divide-and-conquer|2|
 |dynamic-programming|35|
-|graph|35|
+|graph|36|
 |greedy|8|
 |hash-table|8|
 |linked-list|13|
@@ -19,9 +19,9 @@
 |sorting|5|
 |stack|8|
 |string|23|
-|tree|19|
+|tree|21|
 |two-pointer|10|
-| **sum** | **249**|
+| **sum** | **254**|
 
 <br>
 
