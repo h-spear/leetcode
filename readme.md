@@ -3,8 +3,8 @@
 |    Algorithm    | solved |
 | :-------------: | :----: |
 |array|28|
-|back-tracking|6|
-|binary-search|34|
+|back-tracking|9|
+|binary-search|37|
 |bit-manipulation|6|
 |brute-force|1|
 |divide-and-conquer|2|
@@ -12,7 +12,7 @@
 |graph|36|
 |greedy|10|
 |hash-table|9|
-|linked-list|13|
+|linked-list|14|
 |math|9|
 |prefix-sum|5|
 |priority-queue|3|
@@ -20,9 +20,9 @@
 |sorting|6|
 |stack|9|
 |string|25|
-|tree|22|
-|two-pointer|10|
-| **sum** | **271**|
+|tree|23|
+|two-pointer|12|
+| **sum** | **281**|
 
 <br>
 
