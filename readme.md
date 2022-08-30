@@ -2,9 +2,9 @@
 ## PYTHON
 |    Algorithm    | solved |
 | :-------------: | :----: |
-|array|26|
+|array|28|
 |back-tracking|6|
-|binary-search|31|
+|binary-search|34|
 |bit-manipulation|6|
 |brute-force|1|
 |divide-and-conquer|2|
@@ -22,7 +22,7 @@
 |string|25|
 |tree|22|
 |two-pointer|10|
-| **sum** | **266**|
+| **sum** | **271**|
 
 <br>
 
