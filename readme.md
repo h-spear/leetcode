@@ -4,14 +4,14 @@
 | :-------------: | :----: |
 |array|32|
 |back-tracking|12|
-|binary-search|43|
+|binary-search|46|
 |bit-manipulation|8|
 |divide-and-conquer|2|
-|dynamic-programming|39|
+|dynamic-programming|40|
 |graph|38|
 |greedy|14|
-|hash-table|12|
-|implementation|5|
+|hash-table|13|
+|implementation|7|
 |linked-list|21|
 |math|15|
 |prefix-sum|6|
@@ -19,9 +19,10 @@
 |sorting|8|
 |stack|11|
 |string|30|
-|tree|37|
+|tree|40|
+|trie|1|
 |two-pointer|17|
-| **sum** | **354**|
+| **sum** | **365**|
 
 <br>
 
