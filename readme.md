@@ -2,10 +2,10 @@
 ## PYTHON
 |    Algorithm    | solved |
 | :-------------: | :----: |
-|array|32|
+|array|33|
 |back-tracking|12|
 |binary-search|46|
-|bit-manipulation|8|
+|bit-manipulation|9|
 |divide-and-conquer|2|
 |dynamic-programming|40|
 |graph|38|
@@ -22,7 +22,7 @@
 |tree|40|
 |trie|1|
 |two-pointer|17|
-| **sum** | **365**|
+| **sum** | **367**|
 
 <br>
 
