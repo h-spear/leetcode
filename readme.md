@@ -13,17 +13,17 @@
 |hash-table|16|
 |implementation|7|
 |linked-list|22|
-|math|15|
+|math|16|
 |prefix-sum|6|
 |priority-queue|5|
 |quick-select|1|
 |sorting|8|
 |stack|13|
-|string|30|
+|string|32|
 |tree|40|
 |trie|1|
 |two-pointer|17|
-| **sum** | **380**|
+| **sum** | **383**|
 
 <br>
 
