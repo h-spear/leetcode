@@ -8,14 +8,14 @@
 |bit-manipulation|9|
 |divide-and-conquer|2|
 |dynamic-programming|42|
-|graph|38|
+|graph|39|
 |greedy|15|
 |hash-table|16|
 |implementation|7|
 |linked-list|22|
 |math|15|
 |prefix-sum|6|
-|priority-queue|4|
+|priority-queue|5|
 |quick-select|1|
 |sorting|8|
 |stack|13|
@@ -23,7 +23,7 @@
 |tree|40|
 |trie|1|
 |two-pointer|17|
-| **sum** | **378**|
+| **sum** | **380**|
 
 <br>
 
