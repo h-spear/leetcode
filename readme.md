@@ -9,7 +9,7 @@
 |divide-and-conquer|2|
 |dynamic-programming|42|
 |graph|39|
-|greedy|15|
+|greedy|16|
 |hash-table|16|
 |implementation|7|
 |linked-list|22|
@@ -23,7 +23,7 @@
 |tree|40|
 |trie|1|
 |two-pointer|17|
-| **sum** | **383**|
+| **sum** | **384**|
 
 <br>
 
