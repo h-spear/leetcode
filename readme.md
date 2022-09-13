@@ -5,25 +5,25 @@
 |array|34|
 |back-tracking|12|
 |binary-search|46|
-|bit-manipulation|9|
+|bit-manipulation|10|
 |divide-and-conquer|2|
 |dynamic-programming|42|
 |graph|39|
 |greedy|16|
-|hash-table|16|
-|implementation|7|
+|hash-table|17|
+|implementation|8|
 |linked-list|22|
-|math|16|
+|math|18|
 |prefix-sum|6|
 |priority-queue|5|
 |quick-select|1|
-|sorting|8|
+|sorting|9|
 |stack|13|
-|string|32|
-|tree|40|
+|string|35|
+|tree|42|
 |trie|1|
 |two-pointer|17|
-| **sum** | **384**|
+| **sum** | **395**|
 
 <br>
 
