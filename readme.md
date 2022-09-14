@@ -8,7 +8,7 @@
 |bit-manipulation|10|
 |divide-and-conquer|2|
 |dynamic-programming|42|
-|graph|40|
+|graph|41|
 |greedy|16|
 |hash-table|18|
 |implementation|8|
@@ -20,10 +20,10 @@
 |sorting|9|
 |stack|13|
 |string|35|
-|tree|45|
+|tree|46|
 |trie|1|
 |two-pointer|17|
-| **sum** | **400**|
+| **sum** | **402**|
 
 <br>
 
