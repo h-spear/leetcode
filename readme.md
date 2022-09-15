@@ -9,7 +9,7 @@
 |divide-and-conquer|2|
 |dynamic-programming|42|
 |graph|41|
-|greedy|16|
+|greedy|17|
 |hash-table|18|
 |implementation|8|
 |linked-list|22|
@@ -20,10 +20,10 @@
 |sorting|9|
 |stack|13|
 |string|35|
-|tree|46|
+|tree|52|
 |trie|1|
 |two-pointer|17|
-| **sum** | **402**|
+| **sum** | **409**|
 
 <br>
 
