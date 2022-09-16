@@ -7,7 +7,7 @@
 |binary-search|46|
 |bit-manipulation|10|
 |divide-and-conquer|2|
-|dynamic-programming|42|
+|dynamic-programming|43|
 |graph|42|
 |greedy|17|
 |hash-table|18|
@@ -20,10 +20,10 @@
 |sorting|9|
 |stack|13|
 |string|35|
-|tree|56|
+|tree|61|
 |trie|1|
 |two-pointer|17|
-| **sum** | **414**|
+| **sum** | **420**|
 
 <br>
 
