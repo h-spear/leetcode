@@ -10,7 +10,7 @@
 |dynamic-programming|43|
 |graph|43|
 |greedy|17|
-|hash-table|18|
+|hash-table|19|
 |implementation|8|
 |linked-list|22|
 |math|18|
@@ -20,10 +20,10 @@
 |sorting|9|
 |stack|13|
 |string|35|
-|tree|64|
+|tree|67|
 |trie|1|
 |two-pointer|17|
-| **sum** | **424**|
+| **sum** | **428**|
 
 <br>
 
