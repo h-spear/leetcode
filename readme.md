@@ -2,7 +2,7 @@
 ## PYTHON
 |    Algorithm    | solved |
 | :-------------: | :----: |
-|array|34|
+|array|35|
 |back-tracking|12|
 |binary-search|46|
 |bit-manipulation|10|
@@ -11,7 +11,7 @@
 |graph|43|
 |greedy|17|
 |hash-table|20|
-|implementation|8|
+|implementation|9|
 |linked-list|22|
 |math|18|
 |prefix-sum|6|
@@ -23,7 +23,7 @@
 |tree|67|
 |trie|1|
 |two-pointer|17|
-| **sum** | **430**|
+| **sum** | **432**|
 
 <br>
 
