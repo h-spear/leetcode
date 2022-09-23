@@ -5,7 +5,7 @@
 |array|39|
 |back-tracking|12|
 |binary-search|46|
-|bit-manipulation|10|
+|bit-manipulation|11|
 |divide-and-conquer|2|
 |dynamic-programming|44|
 |graph|43|
@@ -23,7 +23,7 @@
 |tree|67|
 |trie|1|
 |two-pointer|17|
-| **sum** | **438**|
+| **sum** | **439**|
 
 <br>
 
