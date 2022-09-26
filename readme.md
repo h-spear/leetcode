@@ -23,7 +23,8 @@
 |tree|67|
 |trie|1|
 |two-pointer|17|
-| **sum** | **439**|
+|union-find|1|
+| **sum** | **440**|
 
 <br>
 
