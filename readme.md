@@ -2,15 +2,15 @@
 ## PYTHON
 |    Algorithm    | solved |
 | :-------------: | :----: |
-|array|39|
+|array|41|
 |back-tracking|12|
 |binary-search|46|
-|bit-manipulation|11|
+|bit-manipulation|12|
 |divide-and-conquer|2|
 |dynamic-programming|45|
 |graph|43|
-|greedy|17|
-|hash-table|20|
+|greedy|18|
+|hash-table|21|
 |implementation|9|
 |linked-list|22|
 |math|19|
@@ -19,12 +19,12 @@
 |quick-select|1|
 |sorting|9|
 |stack|13|
-|string|37|
-|tree|67|
+|string|38|
+|tree|69|
 |trie|1|
 |two-pointer|17|
 |union-find|1|
-| **sum** | **442**|
+| **sum** | **450**|
 
 <br>
 
