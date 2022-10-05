@@ -8,7 +8,7 @@
 |bit-manipulation|12|
 |divide-and-conquer|2|
 |dynamic-programming|45|
-|graph|43|
+|graph|44|
 |greedy|18|
 |hash-table|21|
 |implementation|9|
@@ -24,7 +24,7 @@
 |trie|1|
 |two-pointer|17|
 |union-find|1|
-| **sum** | **453**|
+| **sum** | **454**|
 
 <br>
 
