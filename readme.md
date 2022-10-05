@@ -2,7 +2,7 @@
 ## PYTHON
 |    Algorithm    | solved |
 | :-------------: | :----: |
-|array|41|
+|array|44|
 |back-tracking|12|
 |binary-search|46|
 |bit-manipulation|12|
@@ -24,7 +24,7 @@
 |trie|1|
 |two-pointer|17|
 |union-find|1|
-| **sum** | **450**|
+| **sum** | **453**|
 
 <br>
 
