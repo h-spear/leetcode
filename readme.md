@@ -2,10 +2,10 @@
 ## PYTHON
 |    Algorithm    | solved |
 | :-------------: | :----: |
-|array|44|
+|array|46|
 |back-tracking|12|
 |binary-search|46|
-|bit-manipulation|12|
+|bit-manipulation|13|
 |divide-and-conquer|2|
 |dynamic-programming|45|
 |graph|45|
@@ -13,18 +13,18 @@
 |hash-table|21|
 |implementation|9|
 |linked-list|22|
-|math|19|
+|math|20|
 |prefix-sum|6|
 |priority-queue|5|
 |quick-select|1|
 |sorting|9|
 |stack|13|
 |string|38|
-|tree|69|
+|tree|70|
 |trie|1|
-|two-pointer|17|
+|two-pointer|18|
 |union-find|1|
-| **sum** | **455**|
+| **sum** | **461**|
 
 <br>
 
